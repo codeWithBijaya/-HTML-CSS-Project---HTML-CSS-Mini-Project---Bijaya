@@ -24,7 +24,5 @@ and  it is  HTML CSS mini project but little bit JAVASCRIPT used in a project fo
 * Open index.html in your browser
 
 
-# Demo hosted on : university-page-by-bijay.netlify.app
-
 # Note 
 This site best viewed in Google Chrome browser
